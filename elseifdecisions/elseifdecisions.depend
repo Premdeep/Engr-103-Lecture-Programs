@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1456533559 source:c:\engr103\engr-103-lecture-programs\elseifdecisions\main.c
+	<stdio.h>
+	<stdlib.h>
+
